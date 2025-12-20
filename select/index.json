@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ハルカゼ",
+  "base_artist": "みゆみん",
+  "createdAt": "2025-12-20T06:37:40.473944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Harukaze ハルカゼ",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/01_Harukaze_ハルカゼ_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハルカゼ～You were here～",
+      "artist": "777☆SISTERS",
+      "has_synced": true,
+      "path": "select/02_ハルカゼ~You_were_here~_777☆SISTERS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハルカゼ",
+      "artist": "佐藤利奈",
+      "has_synced": false,
+      "path": "select/03_ハルカゼ_佐藤利奈.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハルカゼ",
+      "artist": "みゆみん",
+      "has_synced": false,
+      "path": "select/pl_01_ハルカゼ_みゆみん.txt"
+    }
+  ]
+}
